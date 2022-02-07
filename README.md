@@ -7,7 +7,7 @@ This one has alot of comments and commented codes; They're like lego parts, feel
 
 # DataBase Validation Entry Process 1:
 
-![validation1](https://user-images.githubusercontent.com/34340232/152710559-daa48720-33a7-4776-86d6-9b9b91b334c7.png)
+![Untitled](https://user-images.githubusercontent.com/34340232/152711144-83dc8994-e8f0-44eb-b03c-18b6229b2452.png)
 
 # DataBase Validation Entry Process 2:
 
